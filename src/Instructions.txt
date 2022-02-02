@@ -1,0 +1,27 @@
+The application is built for a 200x200 grid of cells and the positions of the alive cells are given.
+The positions of the alive cells can be changed in line 160 of the ConwayGameOfLife.java file.
+
+
+> How to run the application:
+
+    -- Using the terminal:
+
+           - Please change directory to the src directory.
+           - Compile the java file using "javac ConwayGameOfLife"
+           - Run the application using "java ConwayGameOfLife"
+
+    -- Using Intellij IDE:
+
+            - Open the application files in a new Intellij project.
+            - Run the ConwayGameOfLife.java file by clicking the run button.
+
+
+> Example of the application running:
+
+The input locations of the alive cells/ Initial state:
+[[5, 5][5, 6][6, 5][6, 6][7, 5][7, 6]]
+
+100th state:
+[[5, 5][5, 6][6, 4][6, 7][7, 5][7, 6]]
+
+
