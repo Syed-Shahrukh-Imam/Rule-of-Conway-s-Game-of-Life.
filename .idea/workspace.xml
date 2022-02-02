@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="69bbc24d-eb96-4bab-9553-d4bf341d269f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Rule-of-Conway-s-Game-of-Life./ConwayGameOfLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Rule-of-Conway-s-Game-of-Life./ConwayGameOfLife.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ConwayGameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConwayGameOfLife.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
