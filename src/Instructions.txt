@@ -1,6 +1,8 @@
 The application is built for a 200x200 grid of cells and the positions of the alive cells are given.
 The positions of the alive cells can be changed in line 160 of the ConwayGameOfLife.java file.
 
+GitHub Repository: https://github.com/Syed-Shahrukh-Imam/Rule-of-Conway-s-Game-of-Life.
+
 
 > How to run the application:
 
